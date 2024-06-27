@@ -5,5 +5,6 @@ public class Test1 {
         System.out.println("New class");
         System.out.println("Say Hi");
         System.out.println("Time te relax");
+        System.out.println("I am almost done");
     }
 }
